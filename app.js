@@ -1,2 +1,2 @@
 //todo command
-console.log("Hello World\n");
+console.log("Hello  NEC\n");
